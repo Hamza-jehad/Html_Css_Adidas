@@ -96,8 +96,9 @@ nav ul li a:hover{
     flex-direction: column;
     justify-content: center;
   }
-  .content .text , .images{
+  .content .text , .content .images{
     width: 80%;
+    height: 80%;
   }
   nav .logo{
     margin-bottom: 15px;
